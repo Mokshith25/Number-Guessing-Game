@@ -1,0 +1,23 @@
+May I ask you for your name?
+mokshinth
+mokshinth, we are going to play a game. I am thinking of a number between 1 and 200
+Go ahead. Guess!
+Guess: 56
+The guess of the number that you have entered is too high
+Try Again!
+Guess: 32
+The guess of the number that you have entered is too high
+Try Again!
+Guess: 21
+The guess of the number that you have entered is too high
+Try Again!
+Guess: 9
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 15
+The guess of the number that you have entered is too high
+Try Again!
+Guess: 12
+Nope. The number I was thinking of was 11
+Do you want to play again?
+11
